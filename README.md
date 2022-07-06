@@ -7,11 +7,8 @@ Me llamo Javi y soy Técnico de Redes y Sistemas y programados de arran lang y f
     https://twitter.com/Bayleysirr
     email: finloyjavi@gmail.com
 
-I also have my own Git instance for more unpolished projects:
-
-    https://git.palaiologos.rocks/
-
 Mi página web
+    https://git.bayleysirr.rocks/
 
 Desde la propia web de github mantengo una página web. Puedes encontrar más información sobre lo que hago en ella.
 
