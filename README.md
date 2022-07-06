@@ -12,4 +12,4 @@ Mi página web
 
 Desde la propia web de github mantengo una página web. Puedes encontrar más información sobre lo que hago en ella.
 
-Actualmente curso Desarrollo de Aplicaciones multiplataforma.
+Actualmente curso Desarrollo de Aplicaciones Multiplataforma.
