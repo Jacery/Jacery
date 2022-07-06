@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @Jacery
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+¡Hola!
 
-<!---
-Jacery/Jacery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Me llamo Javi y soy Técnico de Redes y Sistemas y programados de arran lang y full stack, entre otros. Adicionalmente diseño en Unity y Blender. Suelo aprender mediante ingeniería reversa y entre los lenguajes que más toco se encuentran C, C++, x86 assembly, Perl, JVM, CRM, programación funcional y APL. Estoy creando mi propio compilador. Puedes contactar conmigo de las siguientes formas:
+
+    https://codegolf.stackexchange.com/users/60049/Bayleysirr
+    Discord: Bayleysirr#9316
+    https://twitter.com/Bayleysirr
+    email: finloyjavi@gmail.com
+
+I also have my own Git instance for more unpolished projects:
+
+    https://git.palaiologos.rocks/
+
+Mi página web
+
+Desde la propia web de github mantengo una página web. Puedes encontrar más información sobre lo que hago en ella.
+
+Actualmente curso Desarrollo de Aplicaciones multiplataforma.
