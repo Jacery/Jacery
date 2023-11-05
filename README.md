@@ -8,6 +8,4 @@ Me llamo Javi y soy Técnico de Redes y Sistemas y programados de arran lang y f
 Mi página web
     https://git.bayleysirr.rocks/
 
-Desde la propia web de github mantengo una página web. Puedes encontrar más información sobre lo que hago en ella.
-
 Actualmente curso Desarrollo de Aplicaciones Multiplataforma.
